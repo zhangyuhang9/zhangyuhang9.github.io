@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+==Publications
+
+
+== Selected Journal Papers
+- Yuhang Zhang, Guanghui He, Guoxing Wang, Yongfu Li, "Layout Synthesis of RRAM Array With Minimized Proximity Effect", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025
+- Yuhang Zhang, Ce Ma, Yuxin Ji, Qing Zhang, Jian Zhao, Yongfu Li, "Design of a Reconfigurable Multifunctional Standard Cell for Engineering Change Order", IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024
+- Yuhang Zhang, Guanghui He, Feng Zhang, Yongfu Li, Guoxing Wang, "The study of lithographic variation in resistive random access memory", Journal of Semiconductors, 2024
+- Yuhang Zhang, Yongfu Li, Stephen Makonin, Rakesh Kumar, "Descriptor: Comprehensive IEEE Research Data Collections (CIRDC)", IEEE Data Descriptions, 2024
+- Yuhang Zhang, Kain Lu Low, Longfan Li, Leilai Shao, Yanan Sun, Jian Zhao, Yabin Sun, Yanling Shi, Yongfu Li, "Descriptor: MOSFET Electrical Simulation Dataset (MESD)", IEEE Data Descriptions, 2024
+- Qing Zhang, Yuhang Zhang, Rui Chen, Wei Lu, Huajie Huang, Zhiqiang Li, Yongfu Li, "pFed-Litho: Lithography Modeling With a Personalized Federated Learning Based Framework", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
+- Chao Wang, Yicong Shao, Jiajie Huang, Wangzilu Lu, Zhiwen Gu, Longfan Li, Yuhang Zhang, Jian Zhao, Wei Mao, Yongfu Li, "V2Va+: An Efficient SystemVerilog & Verilog-to-Verilog-A Translator for Accelerated Mixed-Signal Simulation", IEEE Open Journal of Circuits and Systems, 2024
+- Longfan Li, Jun Li, Changyan Chen, Yuhang Zhang, Jian Zhao, Yongfu Li, Xiaojun Guo, "Generalized rapid TFT modeling (GRTM) framework for agile device modeling with thin-film transistors", IEEE Journal on Flexible Electronics, 2024
+- Yuhang Zhang, Guanghui He, Kea-Tiong Tang, Yongfu Li, Guoxing Wang, "GEM: a generalized memristor device modeling framework based on neural network for transient circuit simulation", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023
+- Qing Zhang, Yuhang Zhang, Wei Lu, Huajie Huang, Zheng Zhong, Congshu Zhou, Yongfu Li, "Litho-AsymVnet: super-resolution lithography modeling with an asymmetric V-net architecture", Science China Information Sciences, 2023
+- Qing Zhang, Huajie Huang, Jizuo Li, Yuhang Zhang, Yongfu Li, "CmpCNN: CMP Modeling with Transfer Learning CNN Architecture", ACM Transactions on Design Automation of Electronic Systems, 2023
+- Yuhang Zhang, Guanghui He, Guoxing Wang, Yongfu Li, "XBarNet: Computationally efficient memristor crossbar model using convolutional autoencoder", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022
+- Qing Zhang, Yuhang Zhang, Jizuo Li, Wei Lu, Yongfu Li, ""Litho-NeuralODE 2.0: Improving hotspot detection accuracy with advanced data augmentation, DCT-based features, and neural ordinary differential equations", Integration, 2022
+- Qing Zhang, Xu, Xinzi, Yuhang Zhang, Wei Lu, Yongfu Li, "CompressKey—Near lossless layout compression and encryption using convolutional auto-encoder model and expansion-reduction pattern techniques", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022
+- Qing Zhang, Yuhang Zhang, Jizuo Li, Yongfu Li, "WDP-BNN: Efficient wafer defect pattern classification via binarized neural network", Integration, 2022
+- Yuhang Zhang, Guanghui He, Guoxing Wang, Yongfu Li, "Efficient and robust RRAM-based convolutional weight mapping with shifted and duplicated kernel", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021
+- Yuhang Zhang, Changchun Chai, Yang Liu, Yintang Yang, Chunlei Shi, Qingyang Fan, Yuqian Liu, "Modeling and understanding of the thermal failure induced by high power microwave in CMOS inverter", Chinese Physics B, 2017
+- Yuhang Zhang, Changchun Chai, Xinhai Yu, Yintang Yang, Yang Liu, Qingyang Fan, Chunlei Shi, "Investigation on latch-up susceptibility induced by high-power microwave in complementary metal–oxide–semiconductor inverter", Chinese Physics B, 2017
+- Yuhang Zhang, Changchun Chai, Qingyang Fan, Yintang Yang, Mengjiang Xing, "Mechanical and electronic properties of SiGe alloy in Cmmm structure", Chinese Journal of Physics, 2016
+
+== Selected Conference Papers
+- Jianing Zhang, Jiaqi Dou, Yang Shen, Bingyi Ye, Xiaojin Li, Yanling Shi, Yuhang Zhang, Sun, Yabin, "APEX: Automating Parameter Extraction of Compact Models with Differential Neural Network Approximation, International Symposium of Electronics Design Automation (ISEDA), 2025
+- Jiaqi Dou, Jianing Zhang, Bingyi Ye, Yang Shen, Xiaojin Li, Yanling Shi, Yuhang Zhang, Sun, Yabin, "MALTS: A Multi-Agent Large Language Model-Based Layout-to-TCAD Structure Synthesizer, International Symposium of Electronics Design Automation (ISEDA), 2025
+- Yifan Guo, Jiawei Chen, Yexin Li, Yunxiang Zhang, Qing Zhang, Yuhang Zhang, Yongfu Li, "SEDG: Stitch-Compatible End-to-End Layout Decomposition Based on Graph Neural Network", Design, Automation & Test in Europe Conference (DATE), 2025
+- Longfan Li, Wangzilu Lu, Yuxin Ji, Zhiwen Gu, Huajie Huang, Yuhang Zhang, Jian Zhao, Yongfu Li, "SCEval: An Open-Source Platform for Standardized Evaluation and Optimization of Standard Cell Libraries in Next-Generation Process Nodes," International Conference on Electronics, Information, and Communication (ICEIC), 2025
+- Ruoyu Tang, Chao Wang, Jiajun Yap, Zixian Guo, Yuhang Zhang, Jian Zhao, Minghui Yin, Zhiqiang Li, Fakhrul Zaman Rokhani, Yongfu Li, "D2D-LLM+: Unified Translation Between Design Rules/Manuals and DRC-Bridging Inconsistencies for Accurate Implementation", IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2025
+- Minwei Lin, Duy-Hieu Bui, Chao Wang, Wangzilu Lu, Ruoyu Tang, Qing Zhang, Yuhang Zhang, Jian Zhao, Xuan-Tu Tran, Yongfu Li, "LogicCraft: LLM-Assisted Optimization of Netlist to Layout for Complex Custom Standard Cell Designs", IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2025
+- Longfan Li, Chao Wang, Wangzilu Lu, Yuhang Zhang, Leilai Shao, Yanan Sun, Jian Zhao, Yongfu Li, "LogicEdu: Enhancing computational logic understanding through web-based Boolean logic simplification tool", International SoC Design Conference (ISOCC), 2024
+- Chao Wang, Yunxiang Zhang, Wangzilu Lu, Jiajie Huang, Qing Zhang, Minghui Yin, Yuhang Zhang, Zhiqiang Li, Yongfu Li, "D2D-GPT: Leveraging Incremental Learning GPT for Seamless Design Rule Conversion Across EDA Tools", IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2024
+- Yaotian Liu, Yuhang Zhang, Qing Zhang, Rui Chen, Yongfu Li, "FEEP: Functional ECO synthesis with efficient patch minimization", IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2023
+- Yicong Shao, Chao Wang, Jiajie Huang, Wangzilu Lu, Zhiwen Gu, Longfan Li, Yuhang Zhang, Jian Zhao, Wei Mao, Yongfu Li, "V2Va: An efficient Verilog-to-Verilog-A translator for accelerated mixed-signal simulation", IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2023
+- Wei Lu, Yuhang Zhang, Qing Zhang, Xinjie Zhang, Yongfu Li, "Litho-neuralODE: Improving hotspot detection accuracy with advanced data augmentation and neural ordinary differential equations", Great Lakes Symposium on VLSI, 2020
+- Yuhang Zhang, Guanghui He, Kea-Tiong Tang, Guoxing Wang, "On-chip learning of multilayer perceptron based on memristors with limited multilevel states", IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2019

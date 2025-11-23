@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yuhang Zhang 
+
+~~~
+{}{img_left}{./wordcloud.png}{wordcloud}{250}{}{}
+Associate Professor\n 
+[https://cee.ecnu.edu.cn/ School of Integrated Circuit Science and Engineering] \n
+[https://english.ecnu.edu.cn/ East China Normal University (ECNU)]\n
+Email: /zhangyh/\[AT\]/cee/\[DOT\]/ecnu/\[DOT\]/edu/\[DOT\]/cn/
+~~~
+
+
+
+== Announcement
+- Openings for 2026 PhD and Master's students
+- Undergraduate interns are welcome
+
+== About Me
+Yuhang Zhang (Member, IEEE) received the B.S. and M.S. degrees from Xidian University, Xi’an, China, in 2014 and 2017, respectively, and the Ph.D. degree from Shanghai Jiao Tong University, Shanghai, China, in 2022. 
+
+He is currently an Associate Professor with the School of Integrated Circuit Science and Engineering, East China Normal University, Shanghai. From 2018 to 2019, he was a visiting student in National Tsing Hua University. From 2022 to 2024, he served as a postdoctoral researcher in Shanghai Jiao tong University. His current research interests include electronic design automation, design-technology co-optimization, and design for manufacturing.
+
+== Research Topics
+- Artificial intelligence for Design-Technology Co-Optimization (DTCO)
+- Physical design for advanced technology nodes
+- Circuit design methodology for manufacturing
